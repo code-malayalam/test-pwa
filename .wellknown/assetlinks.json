@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.code_malayalam.twa",
+                     "sha256_cert_fingerprints": ["FC:1C:56:34:3B:41:47:60:6D:88:FB:64:0C:F2:F7:CB:88:E2:76:92:DA:B5:83:1E:90:9C:5C:36:78:8E:B4:0B"] }
+      }
+]
